@@ -11,6 +11,8 @@ ________________________________________________________________________________
 Requirements only contains pandas. Installing auto-py-to-exe as desired.
 The repository contains examples 2 input files and 2 output files.
 Also in the output folder is the converted exe file of the script.
+
+The script file or exe file must be in the folder with csv files.
 _________________________________________________________________________________________
 
 ## Technologies
